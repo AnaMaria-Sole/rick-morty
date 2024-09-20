@@ -16,7 +16,7 @@ export const AliveChar = styled.span`
         margin-top: 0.2em;
     }
     h2{
-        color: ${props=> props.isAlive ? " #386641" : "#ff0000"};
+        color: ${props=> props.isAlive ? "#2b2b2b" : "#492C47"};
         font-size: 20px;
     }
     p{
